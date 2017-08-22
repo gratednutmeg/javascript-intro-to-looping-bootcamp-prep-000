@@ -28,4 +28,4 @@ function doWhileLoop(array) {
   } while (array.length > 0 && maybeTrue())
 }
 
-doWhileLoop([1,2,3,4,5])
+doWhileLoop([1,2,3,4,5]);
