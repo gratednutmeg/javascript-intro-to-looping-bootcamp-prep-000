@@ -17,4 +17,6 @@ function whileLoop(n) {
   return 'done';
 }
 
-whileLoop(10);
+function doWhileLoop(array) {
+  
+}
