@@ -7,6 +7,7 @@ function forLoop(array) {
     }
   }
   console.log(array);
+  console.log(array.length);
 }
 
 forLoop([]);
