@@ -24,9 +24,6 @@ function maybeTrue() {
 function doWhileLoop(array) {
   do {
     array.pop();
-    console.log(array);
   } while (array.length >= 0 && maybeTrue())
   return array;
 }
-
-doWhileLoop([1,2,3,4,5]);
